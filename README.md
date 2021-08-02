@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jacobhusband
 - 👀 I’m interested in aerodynamics, education, and coding.
-- 🌱 I’m currently learning about Mechanical Engineering at California State University Fullerton.
+- 🌱 I’m currently studying Mechanical Engineering at California State University Fullerton.
 - 💞️ I’m looking to collaborate on Python projects.
 - 📫 How to reach me jhusband1@fullerton.edu
 
