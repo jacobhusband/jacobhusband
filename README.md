@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @jacobhusband
-- 👀 I’m interested in aerodynamics, education, and coding.
-- 🌱 I’m currently studying Mechanical Engineering at California State University Fullerton.
-- 💞️ I’m looking to collaborate on Python projects.
-- 📫 How to reach me jhusband1@fullerton.edu
+- 👀 I’m interested in coding, education, and engineering.
+- 🌱 I’m currently working at Synthesis School Inc.
+- 💞️ I recently received a B.S. in Mechanical Engineering from CSUF.
+- 📫 How to reach me jakehusband2@gmail.com
 
 <!---
 jacobhusband/jacobhusband is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
