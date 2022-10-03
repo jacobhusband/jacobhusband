@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @jacobhusband
 - 👀 I’m interested in coding, education, and engineering.
 - 🌱 I’m currently working at Synthesis School Inc.
-- 💞️ I recently received a B.S. in Mechanical Engineering from CSUF.
+- 📚 I recently received a B.S. in Mechanical Engineering from CSUF.
+- 🖥 I am currently attending LearningFuze Full Immersion Bootcamp.
 - 📫 How to reach me jakehusband2@gmail.com
 
 <!---
