@@ -3,7 +3,7 @@
 - 🌱 I’m currently working at Synthesis School Inc.
 - 📚 I recently received a B.S. in Mechanical Engineering from CSUF.
 - 🖥 I am currently attending LearningFuze Full Immersion Bootcamp.
-- 📫 How to reach me jakehusband2@gmail.com
+- 📫 How to reach me jacobhusbandwork@gmail.com
 
 <!---
 jacobhusband/jacobhusband is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
