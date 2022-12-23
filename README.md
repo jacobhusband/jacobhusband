@@ -6,7 +6,7 @@
 - 📫 How to reach me jacobhusbandwork@gmail.com.
 
 Projects:  
-- [Fitness Log](https://jacobhusband.github.io/fitness-log/#home) - A web app to find exercise information and plan workouts.
+- [Fitness Log](https://jacobhusband.github.io/fitness-log/#home) - A web application for fitness enthusiasts who want to find workouts to do.
 
 <!---
 jacobhusband/jacobhusband is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
