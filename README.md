@@ -1,6 +1,6 @@
 ## About
 
-👋 Hi, I’m @jacobhusband. 
+👋 Hi, I’m @jacobhusband.  
 👀 I love creating projects with React.  
 🌱 I’m currently working at Synthesis School Inc.  
 📚 I recently received a B.S. in Mechanical Engineering from CSUF.  
