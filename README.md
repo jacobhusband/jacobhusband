@@ -1,16 +1,20 @@
-- 👋 Hi, I’m @jacobhusband
-- 👀 I’m interested in coding, education, and engineering.
-- 🌱 I’m currently working at Synthesis School Inc.
-- 📚 I recently received a B.S. in Mechanical Engineering from CSUF.
-- 🖥 I am currently attending LearningFuze Full Immersion Bootcamp.
-- 📫 How to reach me jacobhusbandwork@gmail.com.
+## About
 
-Projects:  
-- [Runnerfuze](https://runnerfuze.jacobhusband.com/) - A web application for runners who want to share their runs. 
-- [HCO Furniture](https://hcofurniture.com/) - A web application for people who want resale furniture.
-- [Fitness Log](https://jacobhusband.github.io/fitness-log/#home) - A web application for fitness enthusiasts who want to find workouts to do.  
+👋 Hi, I’m @jacobhusband. 
+👀 I love creating projects with React.  
+🌱 I’m currently working at Synthesis School Inc.  
+📚 I recently received a B.S. in Mechanical Engineering from CSUF.  
+🖥 I recented graduated LearningFuze Full Immersion Bootcamp (800+ hours of simulated professional developer environment).  
+📫 How to reach me jacobhusbandwork@gmail.com.  
+
+## Projects  
+  
+[Runnerfuze](https://runnerfuze.jacobhusband.com/) - A web application for runners who want to share their runs.  
+[HCO Furniture](https://hcofurniture.com/) - A web application for people who want resale furniture.  
+[Fitness Log](https://jacobhusband.github.io/fitness-log/#home) - A web application for fitness enthusiasts who want to find workouts to do.  
  
-Technologies:  
+## Technologies  
+  
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
