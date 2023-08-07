@@ -9,7 +9,7 @@
 
 ## Projects  
   
-[HCO Furniture](https://hcofurniture.com/) - A web application for people who want resale furniture.  
+[HCO Furniture](https://www.hcofurniture.com/) - A web application for people who want resale furniture.  
  
 ## Technologies  
   
