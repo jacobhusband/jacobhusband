@@ -9,9 +9,7 @@
 
 ## Projects  
   
-[Runnerfuze](https://runnerfuze.jacobhusband.com/) - A web application for runners who want to share their runs.  
 [HCO Furniture](https://hcofurniture.com/) - A web application for people who want resale furniture.  
-[Fitness Log](https://jacobhusband.github.io/fitness-log/#home) - A web application for fitness enthusiasts who want to find workouts to do.  
  
 ## Technologies  
   
