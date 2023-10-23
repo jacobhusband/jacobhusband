@@ -2,9 +2,9 @@
 
 👋 Hi, I’m @jacobhusband.  
 👀 I love creating projects with React.  
-🌱 I’m currently working at Synthesis School Inc.  
-📚 I recently received a B.S. in Mechanical Engineering from CSUF.  
-🖥 I recented graduated LearningFuze Full Immersion Bootcamp (800+ hours of simulated professional developer environment).  
+🌱 I’m currently working at GMEP Engineers.  
+📚 I received a B.S. in Mechanical Engineering from CSUF.  
+🖥 I studied web development at LearningFuze Full Immersion Bootcamp.  
 📫 How to reach me jacobhusbandwork@gmail.com.  
 
 ## Projects  
