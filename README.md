@@ -1,16 +1,11 @@
 ## About
 
-👋 Hi, I’m @jacobhusband.  
-👀 I love creating projects with React.  
-🌱 I’m currently working at GMEP Engineers.  
-📚 I received a B.S. in Mechanical Engineering from CSUF.  
+👋 Hi, I’m @jacobhusband.   
+🌱 I’m currently working at GMEP Engineers creating software and tools to increase the productivity of project engineers.  
+📚 I received a B.S. in Mechanical Engineering from CSUF. 
 🖥 I studied web development at LearningFuze Full Immersion Bootcamp.  
 📫 How to reach me jacobhusbandwork@gmail.com.  
 
-## Projects  
-  
-[HCO Furniture](https://www.hcofurniture.com/) - A web application for people who want resale furniture.  
- 
 ## Technologies  
   
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
