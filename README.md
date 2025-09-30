@@ -1,7 +1,7 @@
 ## About
 
 👋 Hi, I’m @jacobhusband.   
-🌱 I’m currently working at GMEP Engineers creating software and tools to increase the productivity of project engineers.  
+🌱 I’m currently working at ACIES Engineers creating software and tools to increase the productivity of project engineers.  
 📚 I received a B.S. in Mechanical Engineering from CSUF. 
 🖥 I studied web development at LearningFuze Full Immersion Bootcamp.  
 📫 How to reach me jacobhusbandwork@gmail.com.  
